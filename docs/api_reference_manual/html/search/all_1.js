@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['ca_5ffl_5fsize',['ca_fl_size',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t.html#a0ae65820846dce327a82c69f282ec277',1,'CA_INIT_CONFIG_T']]],
+  ['ca_5ffl_5fstart',['ca_fl_start',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t.html#a6136042af9a1b440458294e7b463f99b',1,'CA_INIT_CONFIG_T']]],
+  ['ca_5finit_5fconfig_5ft',['CA_INIT_CONFIG_T',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t.html',1,'']]],
+  ['ca_5fis_5frunning',['ca_is_running',['../group__cirrent__api.html#gabd0eb51d09bb2d409896af5bde231bcf',1,'cirrent.h']]],
+  ['ca_5fresult_5falready_5finitialized',['CA_RESULT_ALREADY_INITIALIZED',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a49d2b52f0f351f64b613a45218272575',1,'cirrent.h']]],
+  ['ca_5fresult_5falready_5fstarted',['CA_RESULT_ALREADY_STARTED',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61ab64210cbba1fd4b5750d9957c4ddcc31',1,'cirrent.h']]],
+  ['ca_5fresult_5ferror',['CA_RESULT_ERROR',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a61e3c2d5fd5fe8a1cc3f49b0af88dc9a',1,'cirrent.h']]],
+  ['ca_5fresult_5finvalid_5farg',['CA_RESULT_INVALID_ARG',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a3e63f392a0ff140a7a143aa5ed1a8901',1,'cirrent.h']]],
+  ['ca_5fresult_5fnot_5fready',['CA_RESULT_NOT_READY',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61ae09f1d03c668811c741065e10fefe5a4',1,'cirrent.h']]],
+  ['ca_5fresult_5fsuccess',['CA_RESULT_SUCCESS',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61ac292e9e961fe126bd71cf88cdc87b93b',1,'cirrent.h']]],
+  ['ca_5fresult_5ft',['CA_RESULT_T',['../group__cirrent__data__struct.html#gaf3e804ce49bebb22b220e6f14a801a61',1,'cirrent.h']]],
+  ['ca_5fresult_5ftimeout',['CA_RESULT_TIMEOUT',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a57c7fc3c72c282ca1c5852fedcca51c1',1,'cirrent.h']]],
+  ['ca_5fresult_5funinitialized',['CA_RESULT_UNINITIALIZED',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a79e5e4659c626dc7835f853795b5f152',1,'cirrent.h']]],
+  ['ca_5fresult_5funsupported',['CA_RESULT_UNSUPPORTED',['../group__cirrent__data__struct.html#ggaf3e804ce49bebb22b220e6f14a801a61a29fac33f352da628aaf5c638668c7426',1,'cirrent.h']]],
+  ['ca_5fsoftap_5fconfig_5ft',['ca_softap_config_t',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t_1_1ca__softap__config__t.html',1,'CA_INIT_CONFIG_T']]],
+  ['ca_5fstart',['ca_start',['../group__cirrent__api.html#ga02111bda15ab28fd8e5cb5f60394c4cf',1,'cirrent.h']]],
+  ['ca_5fstop',['ca_stop',['../group__cirrent__api.html#gab07d2918faf3e25ec0e2cf0fe4f9727c',1,'cirrent.h']]],
+  ['ca_5ftime_5fprofile_5fconfig_5ft',['ca_time_profile_config_t',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t_1_1ca__time__profile__config__t.html',1,'CA_INIT_CONFIG_T']]],
+  ['check_5fconnection_5fretry_5ftimeout',['check_connection_retry_timeout',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t_1_1ca__time__profile__config__t.html#a03fa9de6cb5dd96dd019a92697270b5c',1,'CA_INIT_CONFIG_T::ca_time_profile_config_t']]],
+  ['cirrent_20api',['Cirrent API',['../group__cirrent__api.html',1,'']]],
+  ['cirrent_20data_20structures',['Cirrent Data Structures',['../group__cirrent__data__struct.html',1,'']]],
+  ['connected_5fget_5faction_5fslow',['connected_get_action_slow',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t_1_1ca__time__profile__config__t.html#acbbbe4c49e439348d5f8274b7ff1a38c',1,'CA_INIT_CONFIG_T::ca_time_profile_config_t']]],
+  ['connected_5fjoining_5fstatus_5ftimeout',['connected_joining_status_timeout',['../struct_c_a___i_n_i_t___c_o_n_f_i_g___t_1_1ca__time__profile__config__t.html#ae5d7b62247d1fc3a5b613e6a1e0f46e8',1,'CA_INIT_CONFIG_T::ca_time_profile_config_t']]]
+];
