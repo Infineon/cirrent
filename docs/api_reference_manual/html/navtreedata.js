@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Cirrent Agent Library Package for MBED OS", "index.html", [
+  [ "Cirrent Agent Library", "index.html", [
     [ "Overview", "index.html", null ],
     [ "API Reference", "modules.html", "modules" ]
   ] ]

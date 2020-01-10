@@ -17,4 +17,4 @@ This version of the Cirrent Agent Middleware was validated for compatibility wit
 | GCC Compiler                                            | 6.3.1   |
 | IAR Compiler                                            | 8.30    |
 | ARM Compiler 6                                          | 6.11    |
-| MBED OS                                                 | 5.14    |
+| MBED OS                                                 | 5.15    |
